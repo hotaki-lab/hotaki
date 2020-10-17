@@ -11,11 +11,10 @@ Two statistical approaches for constructing a POD curve were considered in the g
 The MH-1823 algorithm is written in R and calculates the POD using four link functions to plot sizes within (−∞ < x < ∞) and POD within (0 < y < 1). These functions are the **logit** (logistic or **log-odds** function), **probit** (inverse normal function), the **complementary log-log** function (often called Weibull by engineers), and **loglog** function. These link functions are used to connect the values at 0 (missed flaws) to the values at 1 (hit data) and to estimate a POD for the system. These functions are as below:
 
 
+<img src="images/loglog.JPG?raw=true"/>
 
-<img src="images/table.JPG?raw=true"/>
 
-
-<img src="images/RT-UT-Lab.JPG?raw=true"/>
+<img src="images/utpod.JPG?raw=true"/>
 
 
 <img src="images/RT.JPG?raw=true"/>
