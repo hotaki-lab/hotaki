@@ -39,7 +39,7 @@
 
 ---
 
-## Data Science Projects (Industry)
+## Data Science Projects (Industry):
 
 [1. Machine Learning:](/ml.md)
 
