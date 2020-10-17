@@ -26,6 +26,18 @@
 
 
 ---
+[5. Research Results:](/results)
+
+<img src="images/results.JPG?raw=true"/>
+
+
+---
+[6. Research References (EndNote):](/ref)
+
+<img src="images/endnote.png?raw=true"/>
+
+
+---
 [4. Sensor Reliability Analysis via POD Curves:](/PODanalysis)
 ---
 
