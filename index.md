@@ -16,7 +16,7 @@
 ---
 [3. Sensor Reliability Analysis via ROC Curves:](/ROCanalysis)
 
-<img src="images/roc1.JPG?raw=true"/>
+<img src="images/roc.gif?raw=true"/>
 
 ---
 
