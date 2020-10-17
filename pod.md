@@ -17,10 +17,16 @@ The MH-1823 algorithm is written in R and calculates the POD using four link fun
 <img src="images/utpod.JPG?raw=true"/>
 
 
-<img src="images/RT.JPG?raw=true"/>
+<img src="images/utpod1.JPG?raw=true"/>
 
 
-<img src="images/RT-UT.JPG?raw=true"/>
+<img src="images/rtbinary.JPG?raw=true"/>
+
+
+<img src="images/utcloglog.JPG?raw=true"/>
+
+
+<img src="images/utloglog.JPG?raw=true"/>
 
 
 ### 3. [Full Research Document Can be Accessed Here](/pdf/research.pdf)
