@@ -1,8 +1,8 @@
-## Digital Portfolio
+# Digital Portfolio
 
 ---
 
-### Data Science Projects (Research/Academic):
+## Data Science Projects (Research/Academic):
 
 [1. Data Collection and Research Domain:](/DataCollection_page)
 
@@ -39,7 +39,7 @@
 
 ---
 
-### Data Science Projects (Industry)
+## Data Science Projects (Industry)
 
 [1. Machine Learning:](/ml.md)
 
