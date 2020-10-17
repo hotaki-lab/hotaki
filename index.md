@@ -32,7 +32,7 @@
 
 
 ---
-[6. Research References (EndNote):](/ref)
+[6. Research References (EndNote):](/pdf/references.pdf)
 
 <img src="images/endnote.png?raw=true"/>
 
