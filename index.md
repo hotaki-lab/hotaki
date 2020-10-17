@@ -38,22 +38,8 @@
 
 
 ---
-[4. Sensor Reliability Analysis via POD Curves:](/PODanalysis)
----
 
-### Category Name 2
+### Data Science Projects (Industry)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[1. Machine Learning:](/ml.md)
 
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
