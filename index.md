@@ -20,7 +20,7 @@
 
 
 ---
-[4. Sensor Reliability Analysis via POD Curves (Using R):](/PODanalysis)
+[4. Sensor Reliability Analysis via POD Curves (Using R):](/pod)
 
 <img src="images/utpod.JPG?raw=true"/>
 
