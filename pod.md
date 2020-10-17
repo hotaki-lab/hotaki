@@ -8,7 +8,9 @@ The Department of Defense developed a guide book (MIL-HDBK-1823A) for reliabilit
 ### 2. Assumptions and Approach (Using R):
 
 Two statistical approaches for constructing a POD curve were considered in the guide book. One approach was based on signal response and another was based on **binary (hit/miss)** data. This book specifically discussed the application of these POD approaches on UT, eddy current (ET), MT, and fluorescent penetrant (PT) tests.
-The MH-1823 algorithm is written in R and calculates the POD using four link functions to plot sizes within (−∞ < x < ∞) and POD within (0 < y < 1). These functions are the **logit** (logistic or **log-odds** function), **probit** (inverse normal function), the complementary **log-log** function (often called Weibull by engineers), and loglog function. These link functions are used to connect the values at 0 (missed flaws) to the values at 1 (hit data) and to estimate a POD for the system. These functions are as below (MIL-HDBK-1823A):
+The MH-1823 algorithm is written in R and calculates the POD using four link functions to plot sizes within (−∞ < x < ∞) and POD within (0 < y < 1). These functions are the **logit** (logistic or **log-odds** function), **probit** (inverse normal function), the **complementary log-log** function (often called Weibull by engineers), and **loglog** function. These link functions are used to connect the values at 0 (missed flaws) to the values at 1 (hit data) and to estimate a POD for the system. These functions are as below:
+
+
 
 <img src="images/table.JPG?raw=true"/>
 
