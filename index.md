@@ -2,7 +2,7 @@
 
 ---
 
-## Data Science Projects (Research/Academic):
+## Data Science Projects (Research/Academia):
 
 [1. Data Collection and Research Domain:](/DataCollection_page)
 
