@@ -13,20 +13,20 @@
 [2. Data Analysis & Feature Selection:](/DataAnalysis)
 
 <p><a href="/DataAnalysis">
-<img src="images/RT-UT-Lab.JPG" alt="/DataAnalysis" width="500" height="300" align="center">
+<img src="images/RT-UT-Lab.JPG" alt="/DataAnalysis" width="500" height="200" align="center">
 </a></p>
 ---
 [3. Sensor Reliability Analysis via ROC Curves:](/ROCanalysis)
 
 <p><a href="/ROCanalysis">
-<img src="images/roc.gif" alt="/ROCanalysis" width="500" height="300" align="center">
+<img src="images/roc.gif" alt="/ROCanalysis" width="400" height="200" align="center">
 </a></p>
 
 ---
 [4. Sensor Reliability Analysis via POD Curves (Using R):](/pod)
 
 <p><a href="/pod">
-<img src="images/utpod.JPG" alt="/pod" width="500" height="300" align="center">
+<img src="images/utpod.JPG" alt="/pod" width="400" height="300" align="center">
 </a></p>
 
 ---
@@ -41,7 +41,7 @@
 [6. Research References (EndNote):](/pdf/references.pdf)
 
 <p><a href="/pdf/references.pdf">
-<img src="images/endnote.png" alt="/pdf/references.pdf" width="500" height="300" align="center">
+<img src="images/endnote.png" alt="/pdf/references.pdf" width="250" height="150" align="center">
 </a></p>
 
 
