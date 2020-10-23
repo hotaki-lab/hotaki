@@ -61,7 +61,7 @@
 <p>
   <a href="MachineLearning/03">
   <img title="Fuel Consumption & CO2 Emmission (Polynomial Regression)" src="MachineLearning/output_27_2.png" alt="MachineLearning/03" width="250" height="200"></a>
-  <a href="MachineLearning/04"><img title="Fuel Consumption & CO2 Emmission (Non-Linear Regression)" src="MachineLearning/output_40_0.png" alt="MachineLearning/04" width="300" height="200"></a>
+  <a href="MachineLearning/04"><img title="Fuel Consumption & CO2 Emmission (Non-Linear Regression)" src="MachineLearning/output_40_0.png" alt="MachineLearning/04" width="250" height="200"></a>
 </p>
 
 
