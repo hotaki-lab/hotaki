@@ -7,33 +7,33 @@
 [1. Data Collection and Research Domain:](/DataCollection_page)
 
 <p><a href="/DataCollection_page.md">
-<img src="images/smb.JPG" alt="/DataCollection_page.md" width="500" height="300" align="center">
+<img src="images/smb.JPG" alt="/DataCollection_page" width="500" height="300" align="center">
 </a></p>
 ---
 [2. Data Analysis & Feature Selection:](/DataAnalysis)
 
 <p><a href="/DataAnalysis.md">
-<img src="images/RT-UT-Lab.JPG" alt="/DataAnalysis.md" width="500" height="300" align="center">
+<img src="images/RT-UT-Lab.JPG" alt="/DataAnalysis" width="500" height="300" align="center">
 </a></p>
 ---
 [3. Sensor Reliability Analysis via ROC Curves:](/ROCanalysis)
 
 <p><a href="/ROCanalysis.md">
-<img src="images/roc.gif" alt="/ROCanalysis.md" width="500" height="300" align="center">
+<img src="images/roc.gif" alt="/ROCanalysis" width="500" height="300" align="center">
 </a></p>
 
 ---
 [4. Sensor Reliability Analysis via POD Curves (Using R):](/pod)
 
 <p><a href="/pod.md">
-<img src="images/utpod.JPG" alt="/pod.md" width="500" height="300" align="center">
+<img src="images/utpod.JPG" alt="/pod" width="500" height="300" align="center">
 </a></p>
 
 ---
 [5. Research Results:](/results)
 
 <p><a href="/results.md">
-<img src="images/results.JPG" alt="/results.md" width="500" height="300" align="center">
+<img src="images/results.JPG" alt="/results" width="500" height="300" align="center">
 </a></p>
 
 
