@@ -50,8 +50,18 @@
 ## Data Science Projects (Industry):
 
 [1. Machine Learning:](MachineLearning/01)
-<p><a href="MachineLearning/01"><img title="Fuel Consumption & CO2 Emmission (Linear Regression)" src="MachineLearning/output_32_1.png" alt="MachineLearning/01" width="200" height="200"></a></p> <img/> <p><a href="MachineLearning/02"><img title="Fuel Consumption & CO2 Emmission (Multiple Linear Regression)" src="MachineLearning/output_13_0.png" alt="MachineLearning/02" width="200" height="200"></a></p>  
+<p>
+  <a href="MachineLearning/01">
+  <img title="Fuel Consumption & CO2 Emmission (Linear Regression)" src="MachineLearning/output_32_1.png" alt="MachineLearning/01" width="200" height="200"></a>
+  <a href="MachineLearning/02">
+  <img title="Fuel Consumption & CO2 Emmission (Multiple Linear Regression)" src="MachineLearning/output_13_0.png" alt="MachineLearning/02" width="200" height="200"></a> 
+</p>
+ 
 
-<p><a href="MachineLearning/03"><img title="Fuel Consumption & CO2 Emmission (Polynomial Regression)" src="MachineLearning/output_27_2.png" alt="MachineLearning/03" width="200" height="200"></a></p> <img/> <p><a href="MachineLearning/04"><img title="Fuel Consumption & CO2 Emmission (Non-Linear Regression)" src="MachineLearning/output_40_0.png" alt="MachineLearning/04" width="200" height="200"></a></p>
+<p>
+  <a href="MachineLearning/03">
+  <img title="Fuel Consumption & CO2 Emmission (Polynomial Regression)" src="MachineLearning/output_27_2.png" alt="MachineLearning/03" width="200" height="200"></a>
+  <a href="MachineLearning/04"><img title="Fuel Consumption & CO2 Emmission (Non-Linear Regression)" src="MachineLearning/output_40_0.png" alt="MachineLearning/04" width="200" height="200"></a>
+</p>
 
 
