@@ -54,7 +54,7 @@
   <a href="MachineLearning/01">
   <img title="Fuel Consumption & CO2 Emmission (Linear Regression)" src="MachineLearning/output_32_1.png" alt="MachineLearning/01" width="300" height="200"></a>
   <a href="MachineLearning/02">
-  <img title="Fuel Consumption & CO2 Emmission (Multiple Linear Regression)" src="MachineLearning/output_13_0.png" alt="MachineLearning/02" width="300" height="300"></a> 
+  <img title="Fuel Consumption & CO2 Emmission (Multiple Linear Regression)" src="MachineLearning/output_13_0.png" alt="MachineLearning/02" width="300" height="200"></a> 
 </p>
  
 
