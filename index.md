@@ -49,9 +49,9 @@
 
 ## Data Science Projects (Industry):
 
-[1. Machine Learning:](/ml.md)
-<p><a href="/ml">
-<img src="images/networking.jpg" alt="/ml" width="200" height="200">
+[1. Machine Learning:](MachineLearning/01)
+<p><a href="MachineLearning/01">
+<img title="Fuel Consumption & CO2 Emmission (Linear Regression)" src="MachineLearning/output_32_1.png" alt="MachineLearning/01" width="200" height="200">
 </a></p>
 
 
