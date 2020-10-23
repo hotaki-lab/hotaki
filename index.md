@@ -49,7 +49,7 @@
 
 ## Data Science Projects (Industry):
 
-[1. Machine Learning:](MachineLearning/01)
+[1. Machine Learning:]<a href="https://courses.edx.org/certificates/101c0b6e610c4881b92cb0d8b50f967e">
 <p>
   <a href="MachineLearning/01">
   <img title="Fuel Consumption & CO2 Emmission (Linear Regression)" src="MachineLearning/output_32_1.png" alt="MachineLearning/01" width="200" height="150"></a>
