@@ -42,6 +42,8 @@
 ## Data Science Projects (Industry):
 
 [1. Machine Learning:](/ml.md)
+<p><a href="/ml.md">
+<img src="images/networking.jpg" alt="/ml.md" width="200" height="200">
+</a></p>
 
-<img src="images/networking.jpg?raw=true"/>
 
