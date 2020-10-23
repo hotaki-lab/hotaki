@@ -65,3 +65,8 @@
 </p>
 
 
+<p>
+  <a href="MachineLearning/05">
+  <img title="Patients Historical Data (Decision Tree)" src="MachineLearning/dt.jpg" alt="MachineLearning/05" width="200" height="150"></a>
+  <a href="MachineLearning/06"><img title="Churn Analysis for a TeleCom Company (Logistic Regression)" src="MachineLearning/output_40_0.png" alt="MachineLearning/06" width="200" height="150"></a>
+</p>
