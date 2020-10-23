@@ -6,8 +6,8 @@
 
 [1. Data Collection and Research Domain:](/DataCollection_page)
 
-<p><a href="/DataCollection_page">
-<img src="images/smb.JPG" alt="/DataCollection_page" width="600" height="300" align="center">
+<p><a href="/DataCollection_page.md">
+<img src="images/smb.JPG" alt="/DataCollection_page.md" width="500" height="300" align="center">
 </a></p>
 ---
 [2. Data Analysis & Feature Selection:](/DataAnalysis)
