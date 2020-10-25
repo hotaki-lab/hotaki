@@ -70,3 +70,13 @@
   <img title="Patients Historical Data (Decision Tree)" src="MachineLearning/dt.jpg" alt="MachineLearning/05" width="200" height="150"></a>
   <a href="MachineLearning/06"><img title="Churn Analysis for a TeleCom Company (Logistic Regression)" src="MachineLearning/output_38_1.png" alt="MachineLearning/06" width="200" height="150"></a>
 </p>
+
+  * Fuel Consumption & CO2 Emmission Project:
+    * [Linear Regression](MachineLearning/01)
+    * [Multiple Linear Regression](MachineLearning/02)
+    * [Polynomial Regression](MachineLearning/03) 
+    * [Non-Linear Regression](MachineLearning/04) 
+  
+  * [Patients Historical Data Analysis (Decision Trees)](MachineLearning/05)
+  
+  * [Customer Churn Analysis for a Telecommunication Company (Logistic Regression)](MachineLearning/06)
