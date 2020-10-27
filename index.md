@@ -82,4 +82,4 @@
   
   * [Customer Churn Analysis for a Telecommunication Company (Logistic Regression)](MachineLearning/06)
 
-  * [Customer Churn Analysis for a Telecommunication Company (Logistic Regression)](MachineLearning/06)
+  * [Analyzing Alcohol Consumption Globally](MachineLearning/06)
