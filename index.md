@@ -81,3 +81,5 @@
   * [Patients Historical Data Analysis (Decision Trees)](MachineLearning/05)
   
   * [Customer Churn Analysis for a Telecommunication Company (Logistic Regression)](MachineLearning/06)
+
+  * [Customer Churn Analysis for a Telecommunication Company (Logistic Regression)](MachineLearning/06)
